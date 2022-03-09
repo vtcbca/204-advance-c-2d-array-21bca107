@@ -1,5 +1,7 @@
 Write a program to print sum of two 3*3 matrix.
-/* write a program to enter two 3/3 matrix and print a sum of */
+/* write a program to enter two 3/3 matrix and print a sum of
+NAME:PARMAR SAGAR
+DATE:22-02-2022*/
 #include<stdio.h>
 #include<conio.h>
 void main()
